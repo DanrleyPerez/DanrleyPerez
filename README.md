@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @DanrleyPerez
+- Danrley Perez
+- Estudante de Engenharia de Informação
+- Programador Junior em busca de estágio
 
 
 <!---
