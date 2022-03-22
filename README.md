@@ -1,6 +1,6 @@
 - Danrley Perez
 - Estudante de Engenharia de Informação
-- Programador Junior em busca de estágio
+- Programador Junior em busca de Estágio.
 
 
 <!---
