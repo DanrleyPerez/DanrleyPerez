@@ -7,11 +7,11 @@
  
 
 :computer: I'm Back-end Junior Developer.
-            #### mainly skills:
-            
-            -->  Python
-            -->  Django
-            -->  SQL
+ #### mainly skills:
+       
+:python: Python
+:django: Django
+:sql: SQL
 
 :house_with_garden: I’m from Brazil. 
 
