@@ -9,9 +9,9 @@
 :computer: I'm Back-end Junior Developer.
  #### mainly skills:
        
-:python: Python
-:django: Django
-:sql: SQL
+:pager: Python
+:bomb: Django
+:scroll: SQL
 
 :house_with_garden: I’m from Brazil. 
 
