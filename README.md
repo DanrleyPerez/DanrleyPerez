@@ -6,7 +6,7 @@
 
  
 
-:computer: I'm Back-end Junior Developer.
+:computer: I'm Fullstack Junior Developer.
  #### mainly skills:
        
 :pager: Python
