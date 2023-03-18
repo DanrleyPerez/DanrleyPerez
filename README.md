@@ -9,9 +9,9 @@
 :computer: I'm Fullstack Junior Developer.
  #### mainly skills:
        
-:pager: Python
-:bomb: Django
-:scroll: SQL
+:pager: Java
+:bomb: Spring Boot
+:scroll: TypeScript
 
 :house_with_garden: I’m from Brazil. 
 
